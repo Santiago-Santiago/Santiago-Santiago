@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiago-santiago" alt="santiago-santiago" /></a> </p>
 
-- 🔭 I’m currently working on [my own Monti Finance app]([PRIVADO])
+- 🔭 I’m currently working on my own **Monti Finance app**
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [Landing Page Coneimera]([PRIVADO])
+- 👯 I’m looking to collaborate on **Landing Page Coneimera**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Santiago-Santiago?tab=repositories](https://github.com/Santiago-Santiago?tab=repositories)
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santiago jose santiago suarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago jose santiago suarez" height="30" width="40" /></a>
-<a href="https://fb.com/santiago santiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santiago santiago" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santiagojsantiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago jose santiago suarez" height="30" width="40" /></a>
+<a href="https://fb.com/santiago.santiago.kami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santiago santiago" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
