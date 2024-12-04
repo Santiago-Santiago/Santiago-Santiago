@@ -1,35 +1,127 @@
-<h1 align="center">Hi 👋, I'm Santiago Santiago</h1>
-<h3 align="center">A passionate fullstack flutter developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiago-santiago&label=Profile%20views&color=0e75b6&style=flat" alt="santiago-santiago" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiago-santiago" alt="santiago-santiago" /></a> </p>
-
-- 🔭 I’m currently working on my own **Monti Finance app**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **Landing Page Coneimera**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Santiago-Santiago?tab=repositories](https://github.com/Santiago-Santiago?tab=repositories)
-
-- 💬 Ask me about **java, dart, python, mysql and sqlserver**
-
-- 📫 How to reach me **santiagojsantiago.04@gmail.com**
-
-- ⚡ Fun fact **I like video games and I want to create my own in the future.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santiagojsantiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago jose santiago suarez" height="30" width="40" /></a>
-<a href="https://fb.com/santiago.santiago.kami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santiago santiago" height="30" width="40" /></a>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=Santiago-Santiago&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-23-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-React%20Native-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Peru-success" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20Low%20English-brightgreen" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey there! 👋, I'm Santiago Santiago</h1></summary>
+  </ul>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiago-santiago&show_icons=true&locale=en&layout=compact" alt="santiago-santiago" /></p>
+<p align="center">
+  <em>
+    Hi! I’m <b>Santiago Santiago</b>, a passionate <b>Flutter Developer</b> 🇻🇪 living in Peru 🇵🇪.<br>
+    I enjoy creating intuitive mobile apps and continuously exploring new technologies 🚀.<br>
+    Currently learning <b>React Native</b> and always open to collaborating on exciting projects 🔍.
+  </em>
+  <br><br>
+  🎮 Gamer at heart with a dream to develop my own video game someday!<br>
+  ✉️ Let’s connect and build something great together! 📩
+  <br><br>
+  💡 <b><i>"Curiosity and creativity drive innovation."</i></b> 🔑
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiago-santiago&show_icons=true&locale=en" alt="santiago-santiago" /></p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linkedin,dart,flutter,css,discord,figma,firebase,github,html,java,js,linux,md,mongodb,mysql,postman,py,tailwind,astro,bootstrap,ts,vscode,visualstudio,eclipse,spring,kotlin,sublime,gmail,godot,npm&perline=14" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiago-santiago&" alt="santiago-santiago" /></p>
+### 👨🏻‍💻 &nbsp;About Me
+- 💡 I enjoy building mobile apps and learning new technologies to improve my skills in software development.
+- 🔭 I’m currently working on **Monti Finance**, a personal finance management app built with Flutter.
+- 🌱 I’m expanding my knowledge by learning **React Native** to broaden my expertise in mobile app development.
+- 👨‍💻 You can explore all of my projects on [GitHub](https://github.com/Santiago-Santiago?tab=repositories), where I showcase a variety of applications and ideas.
+- 💬 Feel free to reach out if you have questions about **Java**, **Dart**, **Python**, **MySQL**, or **SQL Server**. I’m happy to share my knowledge!
+- 🎮 Fun fact: I’m passionate about video games and aspire to develop my own game in the future.
+- ✉️ You can contact me at **santiagojsantiago.04@gmail.com**. I'll do my best to respond promptly!
+- 📄 I’m currently open to remote work opportunities. Let’s connect and collaborate!
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/santiagojsantiago/"><img src="https://img.shields.io/badge/-Santiago%20Santiago-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:santiagojsantiago.04@gmail.com"><img src="https://img.shields.io/badge/-Santiago%20Santiago-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/santiagokami04/"><img src="https://img.shields.io/badge/-Santiago%20Santiago-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/santiago.santiago.kami/"><img src="https://img.shields.io/badge/-Santiago%20Santiago-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+
+<summary><h3> 🔥 Streak Stats</h3></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Santiago&theme=tokyonight_duo" alt="Santiago-Santiago" /></p>
+
+----
+
+
+<summary><h3>💻 GitHub Profile Stats</h3></summary>
+<p align="center">
+	  <img alt="Santiago-Santiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Santiago-Santiago&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santiago-Santiago&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Santiago-Santiago" height="230px"/>
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+<summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+[![Santiago-Santiago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santiago-Santiago&theme=github)](https://github.com/Santiago-Santiago/github-readme-activity-graph)
+
+----
+
+<summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Santiago-Santiago&theme=tokyonight&layout=compact&column=4&margin-w=15&margin-h=15" alt="Santiago-Santiago" /></a> </p>
+
+<!-- [![@santiagosantiago's Holopin board](https://holopin.io/api/user/board?user=santiagosantiago)](https://holopin.io/@santiagosantiago) -->
+----
+	
+<summary><h3> :open_file_folder: My Repositories </h3></summary>
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/Santiago-Santiago/flutter_shopping_app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago-Santiago&repo=flutter_shopping_app&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Santiago-Santiago/toshokan_backend">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago-Santiago&repo=toshokan_backend&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  <a href="https://github.com/Santiago-Santiago/toshokan_angular">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago-Santiago&repo=toshokan_angular&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+
+----
+
+</br></br>
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+    <br>
+</p>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
